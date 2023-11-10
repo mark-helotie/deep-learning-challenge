@@ -15,7 +15,10 @@ The neural network is applied to each model in several layers, for a total of th
 
 # Optimize the Model
 
-Fot the second attempt, I added 'NAME' back into the dataset as well as changing the number of units used in the layers.  I got over 78%, which is above the 75% target. This used a total of 3256 parameters. Deep learning models must have many layers, because they are machine-based... they teach the computer to filter input through layers to learn how to predict and classify information.
+Fot the second attempt, I added 'NAME' back into the dataset as well as changing the number of units used in the layers.  I got over 78%, which is above the 75% target. This used a total of 3256 parameters. 
+
+
+Deep learning models must have many layers, because they are machine-based... they teach the computer to filter input through layers to learn how to predict and classify information.
 
 --------------------------------------------------------------
 
